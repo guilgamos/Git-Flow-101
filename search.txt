@@ -1,0 +1,86 @@
+[Song]
+air
+anthem
+aria
+ballad
+canticle
+carol
+chant
+chorus
+ditty
+expression
+hymn
+lay
+lullaby
+lyric
+melody
+number
+oldie
+opera
+piece
+poem
+psalm
+refrain
+rock
+round
+shanty
+strain
+tune
+verse
+vocal
+
+[movie]
+cinema
+feature
+film
+flick
+motion picture
+picture
+show
+videotape
+celluloid
+screenplay
+talkie
+cine
+cinematics
+cinematograph
+moving picture
+photoplay
+silent
+silver screen
+talking picture
+
+[car]
+auto
+automobile
+bus
+convertible
+jeep
+limousine
+machine
+motor
+pickup
+ride
+station wagon
+truck
+van
+wagon
+bucket
+buggy
+compact
+conveyance
+coupe
+hardtop
+hatchback
+heap
+jalopy
+junker
+motorcar
+roadster
+sedan
+subcompact
+wheels
+wreck
+clunker
+gas guzzler
+touring car
