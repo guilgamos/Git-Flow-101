@@ -28,3 +28,24 @@ strain
 tune
 verse
 vocal
+
+[movie]
+cinema
+feature
+film
+flick
+motion picture
+picture
+show
+videotape
+celluloid
+screenplay
+talkie
+cine
+cinematics
+cinematograph
+moving picture
+photoplay
+silent
+silver screen
+talking picture
